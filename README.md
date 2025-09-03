@@ -5,6 +5,8 @@
 ### tester 3
 
 * *italics*
+- list
++ list
 
 **bold**
 
