@@ -6,6 +6,6 @@
 
 * *italics*
 
-** **bold**
+**bold**
 
-~ strike
+~strike~
