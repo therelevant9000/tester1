@@ -4,8 +4,8 @@
 
 ### tester 3
 
-* italics
+* *italics*
 
-** bold
+** **bold**
 
 ~ strike
